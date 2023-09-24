@@ -20,4 +20,4 @@
 project.lock.json
 project.assets.json
 
-./build
+build
